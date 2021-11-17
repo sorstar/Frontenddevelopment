@@ -37,11 +37,11 @@ Ik ga mij focussen op extra aandacht voor **Surface Plane**
 https://kookmutsjes.com
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepagina 
- <img src="images/" width="375px" alt="">
+ <img src="images/homepagina_fed_km" width="375px" alt="">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Webshop
-<img src="images/" width="375px" alt="">
+<img src="images/Detailpagina_fed_km" width="375px" alt="">
  
 </details>
 
